@@ -1,8 +1,4 @@
 # pkpass_download
-
-A new Flutter package.
-
-# pkpass_download
 A new Flutter package for .pkpass download.
 
 <p align="center"><img src="https://docs-assets.developer.apple.com/published/c104c9bff0/841b02dd-b78c-4cad-8da4-700761d34e14.png" alt="Apple Wallet logo" width="20%"></p>
