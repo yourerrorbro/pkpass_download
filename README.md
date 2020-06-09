@@ -12,8 +12,17 @@ A new Flutter package for .pkpass download.
 ```dart
 import 'package:pass_flutter/pass_flutter.dart';
 
-PassFile passFile = await Pass().saveFromUrl(url: 'https://link_to_pass/pass.pkpass');
+Pkpass_Downloader pkpass_Downloader = await Pass().saveFromUrl(url: 'https://link_to_pass/pass.pkpass');
 ```
+
+## Developer
+
+We developed the .pkpass downloader because we encountered a problem during download time .Then we wanted to create a library to help others.
+
+There has been a lot of effort by the developers to develop this library.
+
+malay kachhadiya (Flutter and Android Developer)
+Shivam Thaker (iOS and Flutter Developer)
 
 ## Contribute
 
