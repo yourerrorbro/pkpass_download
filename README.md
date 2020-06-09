@@ -21,8 +21,8 @@ We developed the .pkpass downloader because we encountered a problem during down
 
 There has been a lot of effort by the developers to develop this library.
 
-# malay kachhadiya (Flutter and Android Developer).
-# Shivam Thaker (iOS and Flutter Developer).
+#### malay kachhadiya (Flutter and Android Developer).
+#### Shivam Thaker (iOS and Flutter Developer).
 
 ## Contribute
 
