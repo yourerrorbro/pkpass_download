@@ -24,6 +24,10 @@ There has been a lot of effort by the developers to develop this library.
 #### malay kachhadiya (Flutter and Android Developer).
 #### Shivam Thaker (iOS and Flutter Developer).
 
+## Still Confused...?
+#### Read my blog
+https://medium.com/@yourerrorbro/how-to-download-pkpass-in-flutter-106962ed68d5
+
 ## Contribute
 
 Please feel free to fork, improve, make pull requests or fill issues.
