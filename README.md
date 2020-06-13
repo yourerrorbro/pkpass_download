@@ -11,8 +11,7 @@ A new Flutter package for .pkpass download.
 ### Getting pass from URL to internal memory
 ```dart
 import 'package:pass_flutter/pkpass_download.dart';
-
-Pkpass_Download pkpass_Download = await Pass().saveFromUrl(url: 'https://link_to_pass/pass.pkpass');
+pkpassDownload(url:"https://link_to_pass/pass.pkpass")
 ```
 
 ## Developer
@@ -32,5 +31,3 @@ https://medium.com/@yourerrorbro/how-to-download-pkpass-in-flutter-106962ed68d5
 
 Please feel free to fork, improve, make pull requests or fill issues.
 I'll be glad to fix bugs you encountered or improve the extension.
-
-
