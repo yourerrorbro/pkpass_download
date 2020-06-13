@@ -11,6 +11,7 @@ A new Flutter package for .pkpass download.
 ### Getting pass from URL to internal memory
 ```dart
 import 'package:pass_flutter/pkpass_download.dart';
+
 pkpassDownload(url:"https://link_to_pass/pass.pkpass")
 ```
 
